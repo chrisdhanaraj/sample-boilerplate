@@ -1,0 +1,23 @@
+{
+  "name": "sample-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chrisdhanaraj <adhanaraj@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "bs-html-injector": "^3.0.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  }
+}
